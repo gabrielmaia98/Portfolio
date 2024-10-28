@@ -3,7 +3,7 @@
 Aqui disponibilizo o código fonte do projeto que realizei com a Carropel, presente em meu portfólio. 
 
 Ele é constituído das seguintes partes:
-1. O código R, o qual utilizei para analisar os dados e gerar os gráficos. Na mesma pasta se encontram os gráficos
+1. O código R, o qual utilizei para analisar os dados e gerar os gráficos. 
 2. O código LaTeX, o qual utilizei para gerar o relatório, disponível em meu website.
 
 Note que, por uma questão de privacidade, os arquivos originalmente fornecidos pela empresa não serão disponibilizados. Também não os anonimizarei para esse fim. 
