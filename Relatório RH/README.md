@@ -12,6 +12,6 @@ Por ora, o código ainda está um pouco caótico, não o formatei e comentei de 
 
 Pretendo, se o tempo me permitir, elaborar um documento no R Markdown expondo o código de modo mais organizado.
 
-O código LaTeX foi escrito para um template chamado [Sullivan Business Report](https://www.latextemplates.com/template/sullivan-business-report), disponibilizado gentil e gratuitamente com outros templates no site [LaTeX Templates](https://www.latextemplates.com/).
+O código LaTeX foi escrito para um template chamado [Sullivan Business Report](https://www.latextemplates.com/template/sullivan-business-report), disponibilizado gentil e gratuitamente com outros no site [LaTeX Templates](https://www.latextemplates.com/).
 
 No código R utilizei diversos pacotes. Todos listados no começo. Entre eles, ressalto o xtable, muito útil para levar tabelas para o LaTeX. 
